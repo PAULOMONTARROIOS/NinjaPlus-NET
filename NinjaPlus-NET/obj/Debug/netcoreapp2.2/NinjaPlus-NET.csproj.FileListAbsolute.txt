@@ -1,0 +1,17 @@
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\NinjaPlus-NET.deps.json
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\NinjaPlus-NET.runtimeconfig.json
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\NinjaPlus-NET.runtimeconfig.dev.json
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\NinjaPlus-NET.dll
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\obj\Debug\netcoreapp2.2\NinjaPlus-NET.csprojAssemblyReference.cache
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\obj\Debug\netcoreapp2.2\NinjaPlus-NET.AssemblyInfoInputs.cache
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\obj\Debug\netcoreapp2.2\NinjaPlus-NET.AssemblyInfo.cs
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\NinjaPlus-NET.pdb
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\obj\Debug\netcoreapp2.2\NinjaPlus-NET.dll
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\obj\Debug\netcoreapp2.2\NinjaPlus-NET.pdb
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\obj\Debug\netcoreapp2.2\NinjaPlus-NET.csproj.CoreCompileInputs.cache
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\Images\resident.jpg
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\config.json
+C:\Projetos\qaninja\NinjaPlus-NET\NinjaPlus-NET\bin\Debug\netcoreapp2.2\Data\data.sql
